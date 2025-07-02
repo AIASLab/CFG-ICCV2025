@@ -99,7 +99,12 @@ For other defense methods, run
 python defense.py --target_model=PointNet --datadir=path/to/adverarial_point_clouds --defense_type=$DEFENSE_TYPE
 ```
 
-## To be released
-Pretrained models on ScanObjectNN dataset will be released later.
+## Citation
+@inproceedings{pang2025towards,
+  title={Towards a 3D Transfer-based Black-box Attack via Critical Feature Guidance},
+  author={Pang, Shuchao and Chen, Zhenghan and Zhang, Shen and Lu, Liming and Liang, Siyuan and Du, Anan and Zhou, Yongbin},
+  booktitle={Proceedings of theEEE International Conference on Computer Vision(ICCV)},
+  year={2019}
+}
 
 
